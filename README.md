@@ -4,7 +4,7 @@ A simple Java (NetBeans) project that turns the BMO class diagram into code. The
 
 ## Class Diagram
 
-![BMO class diagram](INFO-5100-ASSIGNMENT-02-SCREENSHOTS/INFO-5100-ASSIGNMENT-02-DIAGRAM.svg)
+![BMO class diagram](INFO-5100-ASSIGNMENT-02-SCREENSHOTS/INFO-5100-ASSIGNMENT-02-DIAGRAM.svg) 
 
 
 
